@@ -1,35 +1,19 @@
 {
   "name": "js-example-helloworld",
-  "version": "0.1",
-  "author": {
-    "name": "DeployR Inc.",
-    "email": "support@deployr.com"
-  },
-  "description": "A very basic node.js helloworld application",
+  "version": "0.0.1",
+  "description": "Example JavaScript Helloworld",
   "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sandbox-js/js-example-helloworld.git"
+    "url": "https://github.com/sandbox-js/js-example-helloworld.git"
   },
-  "keywords": [
-    "nodeapps",
-    "helloworld"
-  ],
-  "homepage": "http://nodeapps.github.com/sandbox-js/js-example-helloworld",
-  "scripts": {
-    "start": "node ./bin/server"
+  "author": "sandbox-js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandbox-js/js-example-helloworld/issues"
   },
-  "contributors": [
-    {
-      "name": "Sean",
-      "email": "sean@gmail.com"
-    }
-  ],
-  "dependencies": {},
-  "devDependencies": {},
-  "engines": {
-    "node": ">=0.4"
-  },
-  
-  "analyze": false
+  "homepage": "https://github.com/sandbox-js/js-example-helloworld"
 }
