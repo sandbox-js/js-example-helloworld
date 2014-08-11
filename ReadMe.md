@@ -1,5 +1,4 @@
-# Node Apps
-## helloworld
+# JavaScript Helloworld Example
 
 
 # Usage
